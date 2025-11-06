@@ -6,7 +6,7 @@
   <h2 align="center">Desinic - Agency website</h2>
 
   Designed is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-Planning to optimize it and 
+Planning to optimize it and add more features later on
 
 </div>
 
